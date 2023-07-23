@@ -1,0 +1,15 @@
+C:\Users\Timjo\OneDrive\Desktop\GrandCircus\Class_Exersizes_GC\unit4\CIRCLE OBJECTS\bin\Debug\net6.0\CIRCLE OBJECTS.exe
+C:\Users\Timjo\OneDrive\Desktop\GrandCircus\Class_Exersizes_GC\unit4\CIRCLE OBJECTS\bin\Debug\net6.0\CIRCLE OBJECTS.deps.json
+C:\Users\Timjo\OneDrive\Desktop\GrandCircus\Class_Exersizes_GC\unit4\CIRCLE OBJECTS\bin\Debug\net6.0\CIRCLE OBJECTS.runtimeconfig.json
+C:\Users\Timjo\OneDrive\Desktop\GrandCircus\Class_Exersizes_GC\unit4\CIRCLE OBJECTS\bin\Debug\net6.0\CIRCLE OBJECTS.dll
+C:\Users\Timjo\OneDrive\Desktop\GrandCircus\Class_Exersizes_GC\unit4\CIRCLE OBJECTS\bin\Debug\net6.0\CIRCLE OBJECTS.pdb
+C:\Users\Timjo\OneDrive\Desktop\GrandCircus\Class_Exersizes_GC\unit4\CIRCLE OBJECTS\obj\Debug\net6.0\CIRCLE OBJECTS.csproj.AssemblyReference.cache
+C:\Users\Timjo\OneDrive\Desktop\GrandCircus\Class_Exersizes_GC\unit4\CIRCLE OBJECTS\obj\Debug\net6.0\CIRCLE OBJECTS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Timjo\OneDrive\Desktop\GrandCircus\Class_Exersizes_GC\unit4\CIRCLE OBJECTS\obj\Debug\net6.0\CIRCLE OBJECTS.AssemblyInfoInputs.cache
+C:\Users\Timjo\OneDrive\Desktop\GrandCircus\Class_Exersizes_GC\unit4\CIRCLE OBJECTS\obj\Debug\net6.0\CIRCLE OBJECTS.AssemblyInfo.cs
+C:\Users\Timjo\OneDrive\Desktop\GrandCircus\Class_Exersizes_GC\unit4\CIRCLE OBJECTS\obj\Debug\net6.0\CIRCLE OBJECTS.csproj.CoreCompileInputs.cache
+C:\Users\Timjo\OneDrive\Desktop\GrandCircus\Class_Exersizes_GC\unit4\CIRCLE OBJECTS\obj\Debug\net6.0\CIRCLE OBJECTS.dll
+C:\Users\Timjo\OneDrive\Desktop\GrandCircus\Class_Exersizes_GC\unit4\CIRCLE OBJECTS\obj\Debug\net6.0\refint\CIRCLE OBJECTS.dll
+C:\Users\Timjo\OneDrive\Desktop\GrandCircus\Class_Exersizes_GC\unit4\CIRCLE OBJECTS\obj\Debug\net6.0\CIRCLE OBJECTS.pdb
+C:\Users\Timjo\OneDrive\Desktop\GrandCircus\Class_Exersizes_GC\unit4\CIRCLE OBJECTS\obj\Debug\net6.0\CIRCLE OBJECTS.genruntimeconfig.cache
+C:\Users\Timjo\OneDrive\Desktop\GrandCircus\Class_Exersizes_GC\unit4\CIRCLE OBJECTS\obj\Debug\net6.0\ref\CIRCLE OBJECTS.dll
