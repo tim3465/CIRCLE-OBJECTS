@@ -55,4 +55,6 @@ while (run)
     }
 }
 Console.Clear();
+Console.WriteLine("{0,10}| ", "Radius");
+Console.WriteLine("{0,10:n}| ", myCircle.GetRadius());
 Console.WriteLine("\n\n\nHave a nice day!!\n\n\n");
