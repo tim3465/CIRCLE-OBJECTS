@@ -9,12 +9,14 @@ while (true)
     try
     {
         myCircle.Radius = double.Parse(Console.ReadLine().Trim());
+        if (myCircle.Radius < 0)
+            throw new Exception(" negative numbers not allowed ");
         break;
     }
     catch (Exception ex)
     {
         Console.WriteLine("\n"+ex);
-        Console.WriteLine("\nPlesetry agan");
+        Console.WriteLine("\nPlese try agan");
     }
 }
 Console.WriteLine();
