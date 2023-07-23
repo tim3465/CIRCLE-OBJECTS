@@ -54,3 +54,5 @@ while (run)
         }
     }
 }
+Console.Clear();
+Console.WriteLine("\n\n\nHave a nice day!!\n\n\n");
